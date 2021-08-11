@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is 
+
+# Frederik DeVilder, and...
+
+I am a Digital Designer, UX/UI Specialist, turning Web Developer!
