@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is 
+_My name is_ 
 
-# Frederik DeVilder, and...
+### Frederik DeVilder, and...
 
 I am a Digital Designer, UX/UI Specialist, turning Web Developer!
